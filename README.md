@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Najila-1234
 - 👀 I’m interested in bigdata analytics & Datascience
-- 🌱 I’m currently learning bigdata analytics and data science
-- 💞️ I’m looking to collaborate on bigdata & datascience field
+- 🌱 I’m currently doing intrnship in bigdata analytics and data science
+- 💞️ I’m looking to collaborate to work in bigdata & datascience field
 - 📫 How to reach me ... through linkedIn
 
 <!---
